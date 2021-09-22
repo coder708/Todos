@@ -1,0 +1,8 @@
+body{
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 20vh;
+}

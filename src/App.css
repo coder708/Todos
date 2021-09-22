@@ -1,0 +1,28 @@
+.App{
+  background-color: white;
+  height: 500px;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.seconddiv{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.editbtn{
+  color: rgb(168, 207, 168);
+  background-color: white;
+  border: none;
+}
+.deletebtn{
+  color: red;
+  background-color: white;
+  border: none;
+}
+
+.alert{
+  background-color: rgb(122, 185, 122);
+}
